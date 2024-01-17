@@ -1,0 +1,17 @@
+body {
+  div.test {
+    width: 1000px;
+    height: 500px;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 30px;
+
+
+    h1 {
+      color: ghostwhite;
+    }
+  }
+}

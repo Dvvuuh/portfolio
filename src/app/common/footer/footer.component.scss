@@ -1,0 +1,27 @@
+.footer {
+  height: 100px;
+  width: 1300px;
+  position: fixed;
+  top: 580px;
+  left: 0;
+  background-color: darkblue;
+  padding-top: 30px;
+
+  ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    padding: 8px;
+    text-align: center;
+
+    a {
+      text-decoration: none;
+      color: white;
+    }
+  }
+}
